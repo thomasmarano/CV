@@ -34,15 +34,18 @@ A 12-week intensive development bootcamp, emphasizing,
 
 #### Yale University (August 2012 to June 2016)
 
-- History, BA 
-- Grade
-- Other cool stuff
+- History, BA (GPA 3.73/4.0)
+- Organized the annual Spring Concert, overseeing a budget of $200,000+, a committee of 30 members and artists such as Jessie J
+- Volunteered as a mentor to an inmate at the Manson Correctional Facility
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Intercom** (September 2017 to September 2018)    
+*Sales Development Representative*  
+Worked on Intercom's inbound Sales team and helped build out processes for an Outbound sales motion
+
+**Citigroup** (June 2016 to August 2017)   
+*Financial Analyst*
+Worked with clients as a analyst on the Convertible Bonds desk as part of Citigroup's two-year rotational program
