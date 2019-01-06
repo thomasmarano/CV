@@ -1,6 +1,6 @@
 ## Thomas Marano
 
-After spending two years working first as a Financial Analyst and then as a Salesperson in the USA, I decided to apply my problem-solving skills to creating things. I learnt to code at Makers Academy and am looking to continue my learning in a collaborate start-up environment.
+After spending two years working first as a Financial Analyst and then as a Salesperson in the USA, I decided to apply my problem-solving skills to creating things. I learnt to code at Makers Academy and am looking to continue my learning in a collaborative start-up environment.
 
 ## Skills
 
