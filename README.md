@@ -23,20 +23,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2019 to March 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+A 12-week intensive development bootcamp, emphasizing,
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Pair-programming
+- Test Driven Development
+- Object Oriented Design
+- Agile
 
-#### Your University / College (start_date to end_date)
+#### Yale University (August 2012 to June 2016)
 
-- Subject, any specialisms
+- History, BA 
 - Grade
 - Other cool stuff
 
