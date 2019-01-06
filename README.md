@@ -1,6 +1,6 @@
-## Your Name
+## Thomas Marano
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After spending two years working first as a Financial Analyst and then as a Salesperson in the USA, I decided to apply my problem-solving skills to creating things. I learnt to code at Makers Academy and am looking to continue my learning in a collaborate start-up environment.
 
 ## Skills
 
