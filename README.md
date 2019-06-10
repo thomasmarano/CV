@@ -1,4 +1,4 @@
-# <p style="text-align: center"> **Thomas Marano** </p>
+## **Thomas Marano** 
 
 ## **Background**
 
