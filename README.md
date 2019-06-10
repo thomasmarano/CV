@@ -10,19 +10,7 @@ Title | Description | Technologies | Testing
 [Thermostat](https://github.com/thomasmarano/thermostatJS) | First project in JavaScript using JS Logic, jQuery and live weather API | JavaScript, jQuery, HTML/CSS, OpenWeatherAPI | Jasmine |
 Pong | 2 | PyGame | PyTest
 Oyster Card | 2 | Ruby | 4
-Brexit News | 2 | JavaScript | 4
-
-
-4 Projects --
-
-
-Remake the game of Pong using pygame
-
-Thermostat -- add CSS/HTML
-
-Redo one of the other Makers exercises in JS
-
-MY OWN NEWS AGGREGATOR PROJECT
+Brexit News Aggregator | 2 | JavaScript | 4
 
 
 ## **Skills**
