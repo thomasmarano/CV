@@ -8,9 +8,9 @@
 Title | Description | Technologies | Testing
 --- | --- | --- | ---
 [Thermostat](https://github.com/thomasmarano/thermostatJS) | First project in JavaScript using JS Logic, jQuery and live weather API | JavaScript, jQuery, HTML/CSS, OpenWeatherAPI | Jasmine |
-<!-- [Pong]() | 2 | PyGame | PyTest
-[Oyster Card]() | 2 | 3 | 4
-[Brexit News]() | 2 | 3 | 4 -->
+Pong | 2 | PyGame | PyTest
+Oyster Card | 2 | Ruby | 4
+Brexit News | 2 | JavaScript | 4
 
 
 4 Projects --
