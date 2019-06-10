@@ -1,4 +1,4 @@
-<h1 align='center'> Thomas Marano </h1>
+<h1 align='center'>Thomas Marano</h1>
 
 <div align='center'>
 
@@ -69,3 +69,5 @@ Logical thinker -->
 Music -- Spring Fling
 
 (Documentaries) -->
+
+[Back to top](#Thomas Marano)
