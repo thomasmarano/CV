@@ -29,8 +29,6 @@
   Oyster Card | 2 | Ruby | 4
   Brexit News Aggregator | 2 | JavaScript | 4 -->
 
-  For a complete list, see [GitHub](https://github.com/thomasmarano)
-
   ## Skills
 
   <!-- Willingness to learn
