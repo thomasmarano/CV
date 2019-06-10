@@ -1,7 +1,7 @@
 <h1 align='center'> Thomas Marano </h1>
 
 <div align="center">
-  [Backgroundc](#background)|
+  [Background ](#background)|
 </div>
 
 ## **Background**
