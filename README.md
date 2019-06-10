@@ -1,8 +1,8 @@
-# **Thomas Marano**
+## **Thomas Marano**
 
-### **Background**
+## **Background**
 
-### **Projects**
+## **Projects**
 
 4 Projects --
 
@@ -15,7 +15,7 @@ Redo one of the other Makers exercises in JS
 MY OWN NEWS AGGREGATOR PROJECT
 
 
-### **Skills**
+## **Skills**
 
 Willingness to learn
 
@@ -31,12 +31,12 @@ Critical thinking
 
 Logical thinker
 
-### **Experience**
+## **Experience**
 
 ### **Intercom**
 ### **Citigroup**
 
-### **Education**
+## **Education**
 
 ### **Makers Academy (December - April 2019)**
 
@@ -56,7 +56,7 @@ Logical thinker
 + BA History - GPA of 3.73 (Distinction in Degree)
 + Courses in Micro and Macroeconomics, and Multivariable Calculus
 
-### **Interests**
+## **Interests**
 
 Politics/Foreign Affairs
 
