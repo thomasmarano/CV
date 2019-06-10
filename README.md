@@ -1,4 +1,4 @@
-# -> **Thomas Marano** <-
+# <center> **Thomas Marano** </center>
 
 ## **Background**
 
