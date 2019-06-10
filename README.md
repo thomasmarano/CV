@@ -18,7 +18,7 @@ Pong | 2 | PyGame | PyTest
 Oyster Card | 2 | Ruby | 4
 Brexit News Aggregator | 2 | JavaScript | 4
 
-For a complete list [GitHub](https://github.com/thomasmarano)
+For a complete list, see [GitHub](https://github.com/thomasmarano)
 
 ## Skills
 
@@ -40,7 +40,10 @@ Logical thinker -->
 
 **[Intercom](https://www.intercom.com)**, *San Francisco (Sep. 2017 - Sep. 2018)*, Sales Development Representative
 
-**[Citigroup](https://www.citigroup.com/citi)**, *New York (June 2016 - Aug. 2017)*, Financial Analyst, Sales & Trading Graduate Scheme
+**[Citigroup](https://www.citigroup.com/citi)**, *New York (June 2016 - Aug. 2017)*, Financial Analyst - *Convertible Bonds*
+
+**[Citigroup](https://www.citigroup.com/citi)**, *New York (June 2015 - Aug. 2015)*, Global Markets Summer Intern
+
 
 ## Education
 
@@ -64,10 +67,9 @@ Logical thinker -->
 
 ## Interests
 
-<!-- Politics/Foreign Affairs
-
+Politics/Foreign Affairs
 Music -- Spring Fling
+Travelling --
 
-(Documentaries) -->
 
 [Back to top](#user-content-top)
