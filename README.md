@@ -52,7 +52,7 @@ Logical thinker -->
 
 ### **Yale University (2012 - 2016)**
 
-+ Bachelor of Arts (BA), History: 3.73 GPA *(Distinction in Degree)*
++ Bachelor of Arts (BA), History, 3.73 GPA *(Distinction in Degree)*
 + Courses in Micro and Macroeconomics, and Multivariable Calculus
 
 ## **Interests**
