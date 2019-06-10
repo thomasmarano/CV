@@ -1,4 +1,4 @@
-# <div style="text-align: center;"> **Thomas Marano** </div>
+# <p style="text-align: center"> **Thomas Marano** </p>
 
 ## **Background**
 
