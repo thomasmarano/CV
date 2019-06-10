@@ -5,10 +5,10 @@
 ## **Projects**
 
 
-Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Used
---- | --- | --- | --- | ---
-*Still* | `renders` | **nicely** | hello | tom
-1 | 2 | 3 | 4 5
+Title | Description | Technologies Used | Test Suites/CIs/CDs Used
+--- | --- | --- | ---
+[Thermostat](https://github.com/thomasmarano/thermostatJS) | First project in JavaScript using JS Logic, jQuery & live weather API | JavaScript, jQuery, HTML/CSS, OpenWeatherAPI | Jasmine |
+1 | 2 | 3 | 4 
 
 
 4 Projects --
