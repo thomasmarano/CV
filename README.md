@@ -7,7 +7,7 @@
 ## Background
 
 
-## **Projects**
+## Projects
 
 For a complete list [GitHub](https://github.com/thomasmarano)
 
@@ -19,7 +19,7 @@ Oyster Card | 2 | Ruby | 4
 Brexit News Aggregator | 2 | JavaScript | 4
 
 
-## **Skills**
+## Skills
 
 <!-- Willingness to learn
 
@@ -35,15 +35,15 @@ Critical thinking
 
 Logical thinker -->
 
-## **Experience**
+## Experience
 
 **[Intercom](https://www.intercom.com)**, *San Francisco (Sep. 2017 - Sep. 2018)*, Sales Development Representative
 
 **[Citigroup](https://www.citigroup.com/citi)**, *New York (June 2016 - Aug. 2017)*, Financial Analyst, Sales & Trading Graduate Scheme
 
-## **Education**
+## Education
 
-### **Makers Academy (Dec. 2018 - Apr. 2019)**
+### Makers Academy (Dec. 2018 - Apr. 2019)
 
 *16-Week Intensive Full-Stack Web Development Course*
 
@@ -56,12 +56,12 @@ Logical thinker -->
 - [x] Databases - PostgreSQL
 - [x] Deployment - Heroku, TravisCI
 
-### **Yale University (Aug. 2012 - Jun. 2016)**
+### Yale University (Aug. 2012 - Jun. 2016)
 
 + Bachelor of Arts (BA), History, 3.73 GPA *(Distinction in Degree)*
 + Courses in Micro and Macroeconomics, and Multivariable Calculus
 
-## **Interests**
+## Interests
 
 <!-- Politics/Foreign Affairs
 
