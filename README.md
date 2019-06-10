@@ -42,7 +42,7 @@ Logical thinker -->
 *Sales Development Representative*
 
 **[Citigroup](https://www.citigroup.com/citi)**, New York (Jun '16 - Aug '17)  
-*Financial Analyst on Convertible Bonds desk*
+*Financial Analyst (Convertible Bonds Desk)
 
 **[Citigroup](https://www.citigroup.com/citi)**, New York (Jun '15 - Aug '15)  
 *Global Markets Summer Intern*
