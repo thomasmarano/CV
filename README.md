@@ -1,4 +1,4 @@
-<a name='user-content-top'></a><h1 align='center'> Thomas Marano </h1>
+<a name='user-content-top'></a><h2 align='center'> Thomas Marano </h2>
 
 <div align='center'>
 
@@ -49,7 +49,7 @@ Logical thinker -->
 
 ## Education
 
-### Makers Academy (Dec '18 - Apr '19)
+#### Makers Academy (Dec '18 - Apr '19)
 
 *16-Week Intensive Full-Stack Web Development Course*
 
@@ -62,7 +62,7 @@ Logical thinker -->
 - [x] Databases - PostgreSQL
 - [x] Deployment - Heroku, TravisCI
 
-### Yale University (Aug '12 - Jun '16)
+#### Yale University (Aug '12 - Jun '16)
 
 + Bachelor of Arts (BA), History, 3.73 GPA *(Distinction in Degree)*
 + Courses in Micro and Macroeconomics, and Multivariable Calculus
