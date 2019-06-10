@@ -5,20 +5,30 @@
 ### **Projects**
 
 4 Projects --
+
 Remake the game of Pong using pygame
+
 Thermostat -- add CSS/HTML
+
 Redo one of the other Makers exercises in JS
+
 MY OWN NEWS AGGREGATOR PROJECT
 
 
 ### **Skills**
 
 Willingness to learn
+
 Curiosity
+
 Problem Solving
+
 Relationship Management
+
 Fast-learner
+
 Critical thinking
+
 Logical thinker
 
 ### **Experience**
@@ -49,5 +59,7 @@ Logical thinker
 ### **Interests**
 
 Politics/Foreign Affairs
+
 Music -- Spring Fling
+
 (Documentaries)
