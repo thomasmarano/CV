@@ -1,4 +1,4 @@
-<h1 align='center'>Thomas Marano</h1>
+<h1 name='user-content-top' align='center'> Thomas Marano </h1>
 
 <div align='center'>
 
@@ -70,4 +70,4 @@ Music -- Spring Fling
 
 (Documentaries) -->
 
-[Back to top](#Thomas Marano)
+[Back to top](#user-content-top)
