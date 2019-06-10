@@ -33,7 +33,7 @@ Logical thinker
 
 ## **Experience**
 
-**[Intercom] (https://www.intercom.com/)**, San Francisco (Sep. 2017 - Sep. 2018) - Sales Development Representative
+**[Intercom] (https://www.intercom.com/ "Intercom")**, San Francisco (Sep. 2017 - Sep. 2018) - Sales Development Representative
 
 **[Citigroup] (https://www.citigroup.com/citi/)**, New York (June 2016 - Aug. 2017) - Financial Analyst
 
