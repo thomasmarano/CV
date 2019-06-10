@@ -42,6 +42,15 @@ Logical thinker
 
 *16-Week Intensive Full-Stack Web Development Course*
 
+- [x] JavaScript, Ruby, Python - Sinatra, jQuery, Rails, Pygame
+- [x] Agile Principles (SOLID, TDD, BDD, Scrum)
+- [x] Test-Driven Development (TDD) - RSpec, Jasmine, Capybara
+- [x] Pair Programming
+- [x] Git Version Control
+- [x] HTML, CSS
+- [x] Databases - PostgreSQL
+- [x] Deployment - Heroku, TravisCI
+
 + JavaScript, Ruby, Python - Sinatra, jQuery, Rails, Pygame
 + Agile Principles (SOLID, TDD, BDD, Scrum)
 + Test-Driven Development (TDD) - RSpec, Jasmine, Capybara
