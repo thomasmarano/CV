@@ -1,4 +1,4 @@
-### **Thomas Marano**
+# **Thomas Marano**
 
 ## **Background**
 
