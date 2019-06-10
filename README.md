@@ -1,14 +1,14 @@
 <p align="right">
 <a href="https://www.linkedin.com/in/thomas-marano-632811138/?originalSubdomain=uk">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
-<a name='user-content-top'><h1 align='center'> Thomas Marano </h1></a>
-  <h1 align='center'><a name='user-content-top'>Thomas Marano</a></h1>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+</p>
 
-  <div align='center'>
+<a name='user-content-top'><h1 align='center'> Thomas Marano </h1></a>
+<div align='center'>
 
   [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
-  </div>
+</div>
 
   ## Background
 
