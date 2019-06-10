@@ -1,8 +1,8 @@
 # **Thomas Marano**
 
-# **Background**
+### **Background**
 
-# **Projects**
+### **Projects**
 
 4 Projects --
 Remake the game of Pong using pygame
@@ -11,7 +11,7 @@ Redo one of the other Makers exercises in JS
 MY OWN NEWS AGGREGATOR PROJECT
 
 
-# **Skills**
+### **Skills**
 
 Willingness to learn
 Curiosity
@@ -21,14 +21,14 @@ Fast-learner
 Critical thinking
 Logical thinker
 
-# **Experience**
+### **Experience**
 
-**Intercom**
-**Citigroup**
+### **Intercom**
+### **Citigroup**
 
-# **Education**
+### **Education**
 
-# **Makers Academy (December - April 2019)**
+### **Makers Academy (December - April 2019)**
 
 *16-Week Intensive Full-Stack Web Development Course*
 
@@ -41,12 +41,12 @@ Logical thinker
 + Databases - PostgreSQL
 + Deployment - Heroku, TravisCI
 
-# **Yale University (2012 - 2016)**
+### **Yale University (2012 - 2016)**
 
 + BA History - GPA of 3.73 (Distinction in Degree)
 + Courses in Micro and Macroeconomics, and Multivariable Calculus
 
-# **Interests**
+### **Interests**
 
 Politics/Foreign Affairs
 Music -- Spring Fling
