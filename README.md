@@ -1,4 +1,4 @@
-<a name='user-content-top'></a><h2 align='center'> Thomas Marano </h2>
+<a name='user-content-top'></a><h1 align='center'> Thomas Marano </h1>
 
 <div align='center'>
 
