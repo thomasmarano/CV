@@ -4,7 +4,13 @@
 
 ## **Projects**
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 4 Projects --
+
 
 Remake the game of Pong using pygame
 
