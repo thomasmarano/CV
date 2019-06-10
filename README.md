@@ -1,4 +1,4 @@
-# <div align='justify'> **Thomas Marano** </div>
+# <p align='justify'> **Thomas Marano** </p>
 
 ## **Background**
 
