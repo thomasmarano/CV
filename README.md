@@ -14,9 +14,11 @@
 Title | Description | Technologies | Testing
 --- | --- | --- | ---
 [Thermostat](https://github.com/thomasmarano/thermostatJS) | First project in JavaScript using JS Logic, jQuery and live weather API | JavaScript, jQuery, HTML/CSS, OpenWeatherAPI | Jasmine |
-Pong | 2 | PyGame | PyTest
+
+
+<!-- Pong | 2 | PyGame | PyTest
 Oyster Card | 2 | Ruby | 4
-Brexit News Aggregator | 2 | JavaScript | 4
+Brexit News Aggregator | 2 | JavaScript | 4 -->
 
 For a complete list, see [GitHub](https://github.com/thomasmarano)
 
@@ -74,5 +76,6 @@ Music -- Spring Fling
 Travelling --
 Football -
 
-<a></a>
+
+
 [Back to top](#user-content-top)
