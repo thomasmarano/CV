@@ -51,15 +51,6 @@ Logical thinker
 - [x] Databases - PostgreSQL
 - [x] Deployment - Heroku, TravisCI
 
-+ JavaScript, Ruby, Python - Sinatra, jQuery, Rails, Pygame
-+ Agile Principles (SOLID, TDD, BDD, Scrum)
-+ Test-Driven Development (TDD) - RSpec, Jasmine, Capybara
-+ Pair Programming
-+ Git Version Control
-+ HTML, CSS
-+ Databases - PostgreSQL
-+ Deployment - Heroku, TravisCI
-
 ### **Yale University (2012 - 2016)**
 
 + BA History - GPA of 3.73 (Distinction in Degree)
