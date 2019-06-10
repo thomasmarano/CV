@@ -1,7 +1,10 @@
 <h1 align='center'> Thomas Marano </h1>
 
+<div align='center'>
+
 [Background](#background) | [Projects](#projects)
 
+</div>
 
 ## Background
 
