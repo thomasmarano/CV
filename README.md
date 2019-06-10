@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thomas-marano-632811138/?originalSubdomain=uk">
-  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="10" height="42" width="42"></a>
+  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="10" height="41" width="41"></a>
   <a href="https://github.com/thomasmarano">
-  <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="10" height="36" width="36"></a>
+  <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="10" height="37" width="37"></a>
 </p>
 
 
