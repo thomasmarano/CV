@@ -1,6 +1,8 @@
-## **Thomas Marano**
+<h1 align='center'> Thomas Marano </h1>
+
 
 ## **Background**
+
 
 ## **Projects**
 
