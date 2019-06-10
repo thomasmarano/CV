@@ -5,13 +5,11 @@
 ## **Projects**
 
 
+Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Used
+--- | --- | --- | --- | ---
+*Still* | `renders` | **nicely** | hello | tom
+1 | 2 | 3 | 4 5
 
-| Title        | Description           | Development Timeframe  | Technologies Used | Test Suites/CIs/CDs Used|
-| ------------- |:-------------:| -----:| | |
-| col 3 is      | right-aligned | $1600 | | |
-| col 2 is      | centered      |   $12 | | |
-| zebra stripes | are neat      |    $1 | | |
-| zebra stripes | are neat      |    $1 | | |
 
 4 Projects --
 
