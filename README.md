@@ -1,7 +1,9 @@
 <a name='user-content-top'></a><h1 align='center'> Thomas Marano </h1>
 
 <div align='center'>
+
 [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+
 </div>
 
 ## Background
