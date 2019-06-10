@@ -37,7 +37,7 @@ Logical thinker -->
 
 ## **Education**
 
-### **Makers Academy (December - April 2019)**
+### **Makers Academy (Dec. 2018 - Apr. 2019)**
 
 *16-Week Intensive Full-Stack Web Development Course*
 
@@ -50,7 +50,7 @@ Logical thinker -->
 - [x] Databases - PostgreSQL
 - [x] Deployment - Heroku, TravisCI
 
-### **Yale University (2012 - 2016)**
+### **Yale University (Aug. 2012 - Jun. 2016)**
 
 + Bachelor of Arts (BA), History, 3.73 GPA *(Distinction in Degree)*
 + Courses in Micro and Macroeconomics, and Multivariable Calculus
