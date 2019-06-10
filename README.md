@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/thomas-marano-632811138/?originalSubdomain=uk">
   <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
   <a href="https://github.com/thomasmarano">
-  <img src="https://www.iconfinder.com/icons/4550856/facebook_media_networking_social_icon" alt="github" hspace="50" height="42" width="42"></a>
+  <img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Facebook-512.png" alt="github" hspace="50" height="42" width="42"></a>
 </p>
 
 
