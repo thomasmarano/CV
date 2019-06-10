@@ -38,13 +38,13 @@ Logical thinker -->
 
 ## Experience
 
-**[Intercom](https://www.intercom.com)**, San Francisco (Sep '17 - Sep '18)
+**[Intercom](https://www.intercom.com)**, San Francisco (Sep '17 - Sep '18)  
 *Sales Development Representative*
 
-**[Citigroup](https://www.citigroup.com/citi)**, New York (Jun '16 - Aug '17)
+**[Citigroup](https://www.citigroup.com/citi)**, New York (Jun '16 - Aug '17)  
 *Financial Analyst on Convertible Bonds desk*
 
-**[Citigroup](https://www.citigroup.com/citi)**, New York (Jun '15 - Aug '15)
+**[Citigroup](https://www.citigroup.com/citi)**, New York (Jun '15 - Aug '15)  
 *Global Markets Summer Intern*
 
 ## Education
