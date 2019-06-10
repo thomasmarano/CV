@@ -1,38 +1,53 @@
-## Thomas Marano
+# **Thomas Marano**
 
-Even though I studied History at university, I have always preferred maths and sciences. Following this, after spending two years working first as a Financial Analyst and then as a Salesperson in the USA, I decided to apply my problem-solving skills to creating things. I learnt to code at Makers Academy and am looking to continue my learning in a collaborative start-up environment.
+# **Background**
 
-## Skills
+# **Projects**
 
-#### Analysis
+4 Projects --
+Remake the game of Pong using pygame
+Thermostat -- add CSS/HTML
+Redo one of the other Makers exercises in JS
+MY OWN NEWS AGGREGATOR PROJECT
 
-As per the instructions, will add to this section when I have more to showcase my skills
 
-## Education
+# **Skills**
 
-#### Makers Academy (January 2019 to March 2019)
+Willingness to learn
+Curiosity
+Problem Solving
+Relationship Management
+Fast-learner
+Critical thinking
+Logical thinker
 
-A 12-week intensive development bootcamp, emphasizing,
+# **Experience**
 
-- Pair-programming
-- Test Driven Development
-- Object Oriented Design
-- Agile
+**Intercom**
+**Citigroup**
 
-#### Yale University (August 2012 to June 2016)
+# **Education**
 
-- History, BA (GPA 3.73/4.0)
-- Organized the annual Spring Concert, overseeing a budget of $200,000+, a committee of 30 members and artists such as Jessie J
-- Volunteered as a mentor to an inmate at the Manson Correctional Facility
+# **Makers Academy (December - April 2019)**
 
-#### Any other qualifications
+*16-Week Intensive Full-Stack Web Development Course*
 
-## Experience
++ JavaScript, Ruby, Python - Sinatra, jQuery, Rails, Pygame
++ Agile Principles (SOLID, TDD, BDD, Scrum)
++ Test-Driven Development (TDD) - RSpec, Jasmine, Capybara
++ Pair Programming
++ Git Version Control
++ HTML, CSS
++ Databases - PostgreSQL
++ Deployment - Heroku, TravisCI
 
-**Intercom** (September 2017 to September 2018)    
-*Sales Development Representative*  
-Worked on Intercom's inbound Sales team and helped build out processes for an Outbound sales motion
+# **Yale University (2012 - 2016)**
 
-**Citigroup** (June 2016 to August 2017)   
-*Financial Analyst*
-Worked with clients as a analyst on the Convertible Bonds desk as part of Citigroup's two-year rotational program
++ BA History - GPA of 3.73 (Distinction in Degree)
++ Courses in Micro and Macroeconomics, and Multivariable Calculus
+
+# **Interests**
+
+Politics/Foreign Affairs
+Music -- Spring Fling
+(Documentaries)
