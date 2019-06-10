@@ -1,15 +1,12 @@
 <h1 align='center'> Thomas Marano </h1>
 
-<div align="center">
-  [Background](#background)|
-</div>
+[Background](#background) | [Projects](#projects)
+
 
 ## Background
 
 
 ## Projects
-
-For a complete list [GitHub](https://github.com/thomasmarano)
 
 Title | Description | Technologies | Testing
 --- | --- | --- | ---
@@ -18,6 +15,7 @@ Pong | 2 | PyGame | PyTest
 Oyster Card | 2 | Ruby | 4
 Brexit News Aggregator | 2 | JavaScript | 4
 
+For a complete list [GitHub](https://github.com/thomasmarano)
 
 ## Skills
 
