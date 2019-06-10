@@ -17,7 +17,7 @@ MY OWN NEWS AGGREGATOR PROJECT
 
 ## **Skills**
 
-Willingness to learn
+<!-- Willingness to learn
 
 Curiosity
 
@@ -29,7 +29,7 @@ Fast-learner
 
 Critical thinking
 
-Logical thinker
+Logical thinker -->
 
 ## **Experience**
 
@@ -59,8 +59,8 @@ Logical thinker
 
 ## **Interests**
 
-Politics/Foreign Affairs
+<!-- Politics/Foreign Affairs
 
 Music -- Spring Fling
 
-(Documentaries)
+(Documentaries) -->
