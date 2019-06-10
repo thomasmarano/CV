@@ -1,4 +1,4 @@
-## **Thomas Marano** 
+## **Thomas Marano**
 
 ## **Background**
 
@@ -33,8 +33,9 @@ Logical thinker
 
 ## **Experience**
 
-### **Intercom**
-### **Citigroup**
+**[Intercom] (https://www.intercom.com/)**, San Francisco (Sep. 2017 - Sep. 2018) - Sales Development Representative
+
+**[Citigroup] (https://www.citigroup.com/citi/)**, New York (June 2016 - Aug. 2017) - Financial Analyst
 
 ## **Education**
 
@@ -53,7 +54,7 @@ Logical thinker
 
 ### **Yale University (2012 - 2016)**
 
-+ BA History - GPA of 3.73 (Distinction in Degree)
++ **BA**, History - GPA of 3.73 (Distinction in Degree)
 + Courses in Micro and Macroeconomics, and Multivariable Calculus
 
 ## **Interests**
