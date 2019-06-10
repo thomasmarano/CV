@@ -38,22 +38,18 @@ Logical thinker -->
 
 ## Experience
 
-**[Intercom](https://www.intercom.com)** *San Francisco (Sep. 2017 - Sep. 2018)*
+**[Intercom](https://www.intercom.com)**, San Francisco (Sep '17 - Sep '18)
+*Sales Development Representative*
 
-Sales Development Representative
+**[Citigroup](https://www.citigroup.com/citi)**, New York (Jun '16 - Aug '17)
+*Financial Analyst on Convertible Bonds desk*
 
-**[Citigroup](https://www.citigroup.com/citi)**, *New York (June 2016 - Aug. 2017)*
-
-Financial Analyst on Convertible Bonds desk
-
-**[Citigroup](https://www.citigroup.com/citi)**, *New York (June 2015 - Aug. 2015)*
-
-Global Markets Summer Intern
-
+**[Citigroup](https://www.citigroup.com/citi)**, New York (Jun '15 - Aug '15)
+*Global Markets Summer Intern*
 
 ## Education
 
-### Makers Academy (Dec. 2018 - Apr. 2019)
+### Makers Academy (Dec '18 - Apr '19)
 
 *16-Week Intensive Full-Stack Web Development Course*
 
@@ -66,7 +62,7 @@ Global Markets Summer Intern
 - [x] Databases - PostgreSQL
 - [x] Deployment - Heroku, TravisCI
 
-### Yale University (Aug. 2012 - Jun. 2016)
+### Yale University (Aug '12 - Jun '16)
 
 + Bachelor of Arts (BA), History, 3.73 GPA *(Distinction in Degree)*
 + Courses in Micro and Macroeconomics, and Multivariable Calculus
