@@ -7,15 +7,14 @@
   <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="20" height="37" width="37"></a>
 </p>
 
-
 <div align='center'>
 
   [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 </div>
 
-
   ## Background
+
 
 
   ## Projects
@@ -24,26 +23,27 @@
   --- | --- | --- | ---
   [Thermostat](https://github.com/thomasmarano/thermostatJS) | First project in JavaScript using JS Logic, jQuery and live weather API | JavaScript, jQuery, HTML/CSS, OpenWeatherAPI | Jasmine |
 
-
   <!-- Pong | 2 | PyGame | PyTest
   Oyster Card | 2 | Ruby | 4
   Brexit News Aggregator | 2 | JavaScript | 4 -->
 
   ## Skills
 
-  <!-- Willingness to learn
+  #### + Analytical Thinker
 
-  Curiosity
+  At Yale, I was solely responsible for managing a $225k budget for production and musical artists to host a concert for 10,000 students (release video for concert [here](https://www.youtube.com/watch?v=17iBpTIbjF8)). While at Citigroup, I analysed market and convertible bond data to pitch trade ideas to high-value clients on a weekly basis, after careful risk analysis.
 
-  Problem Solving
+  #### + Fast Learner
 
-  Relationship Management
+  Even though I lacked a background or prior knowledge in Finance, Citigroup offered me a full-time job after I demonstrated I could pick-up technical financial concepts in a short amount of time. During my time at Intercom, I researched and built out processes for an Outbound Sales Motion from scratch which I had previous experience doing. Similarly, at Makers, I independently taught myself PyGame even though it wasn't in the syllabus, and built a functioning game of Pong within 2 days.
 
-  Fast-learner
+  #### + Strong Interpersonal Skills and Team-Player
 
-  Critical thinking
+  - Born in England but grew up in America -- learnt how to manage different types of people
+  - While at Citigroup, I spoke to clients in very stressful situations, and learnt how to take the right tone
+  - Mentored a prison inmate
+  - This helped me in pairing sessions at Makers, and will help me continue to be a good team-mate
 
-  Logical thinker -->
 
   ## Experience
 
@@ -74,20 +74,14 @@
   #### Yale University (Aug '12 - Jun '16)
 
   + Bachelor of Arts (BA), History, 3.73 GPA *(Distinction in Degree)*
-  + Courses in Micro and Macroeconomics, and Multivariable Calculus
+  + Additional Modules in Micro and Macroeconomics, and Multivariable Calculus
 
   ## Interests
 
-  #### + Counselling and Mentoring
-
-  My itch to solve problems extends throughout my personal life. When those around me tell me about personal problems, much like with programming, I do my best to isolate the problem, reframe it, and then determine incremental steps to find a solution. Whether the counterpart is a friend, a colleague, or a youth inmate in prison, I don't feel satisfied until I have positively contributed in some way. 
-
-  #### + Music and Concerts
-
-  Aside from attending numerous concerts and music festivals, I have also dabbled in the production side of things. At Yale, I led a 30-person team, managed a budget of $225k and all logistical aspects related to hosting a concert for 10,000 students. Artists included [Jessie J](https://en.wikipedia.org/wiki/Jessie_J). Release video for the concert can be found [here](https://www.youtube.com/watch?v=17iBpTIbjF8).
-
-  #### + Foreign Affairs and International Politics
-
-  In recent times, the dramatic political upheaval across the world has sent me searching for answers. Whether I'm reading about Xi Jinping's consolidation of power in China or the age-old Sunni-Shia power struggle in the Middle East, I draw parallels from history and across borders to make better sense of the world around me today. 
+  - Music and Concerts
+  - Foreign Affairs and International Politics
+  - Counselling and Mentoring
+  - Travelling
+  - Football (fan & player)
 
   [Back to top](#user-content-top)
