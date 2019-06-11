@@ -15,7 +15,11 @@
 
   ## Background
 
+  I am an enthusiastic and ambitious Full Stack Junior Developer, looking for a London-based role where I can further my programming skills, while also gaining exposure to product management and business strategy.
 
+  Since graduating from Yale University, I have worked in various business capacities at Citigroup and Intercom, but
+
+  I recently completed a 16-week intensive course at Makers Academy, and am looking for a company whose culture highly values learning and mentorship, so I can grow and become the best programmer I possibly can. 
 
   ## Projects
 
@@ -40,6 +44,7 @@
   #### + Strong Interpersonal Skills
 
   I was born in England to American parents so quickly learned to find common ground with diverse people. Through speaking to frustrated clients at Citigroup or youth inmates in the US penitentiary system, I've nurtured this ability to build genuine, trusting relationships with people very different from me. This helped me greatly during our pairing sessions at Makers, not to mention, as a teammate in both my previous roles.
+
 
   ## Experience
 
