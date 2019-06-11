@@ -78,10 +78,19 @@
 
   ## Interests
 
-  Politics/Foreign Affairs
-  Music -- Spring Fling
-  Travelling --
-  Football -
+  #### + Foreign Affairs and Politics
 
+  In recent times, the dramatic political upheaval across the world has sent me searching for answers. Whether I'm reading about Xi Jinping's consolidation of power in China or the age-old Sunni-Shia power struggle in the Middle East, I draw parallels from history and across borders & political systems to make better sense of the world around me, and where we might be headed.  
+    
+  #### + Music
+
+  Concerts & Spring Fling
+
+  
+  #### + Mentoring/Counselling 
+
+  
+  #### + Travelling
+  
 
   [Back to top](#user-content-top)
