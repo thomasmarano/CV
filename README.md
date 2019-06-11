@@ -9,11 +9,11 @@
 
 <div align='center'>
 
-  [Background](#background) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+  [About Me](#About Me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 </div>
 
-  ## Background
+  ## About Me
 
   Since graduating from Yale University, I have worked in various business capacities at Citigroup and Intercom. I have now turned all my energy to the wonderful world of coding and building things.
 
