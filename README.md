@@ -78,16 +78,16 @@
 
   ## Interests
 
-  #### + Foreign Affairs and International Politics
+  #### + Counselling and Mentoring
 
-  In recent times, the dramatic political upheaval across the world has sent me searching for answers. Whether I'm reading about Xi Jinping's consolidation of power in China or the age-old Sunni-Shia power struggle in the Middle East, I draw parallels from history and across borders to make better sense of the world around me today.  
+  My itch to solve problems extends throughout my personal life. When those around me tell me about personal problems, much like with programming, I do my best to isolate the problem, reframe it, and then determine incremental steps to find a solution. Whether the counterpart is a friend, a colleague, or a youth inmate in prison, I don't feel satisfied until I have positively contributed in some way. 
 
   #### + Music and Concerts
 
   Aside from attending numerous concerts and music festivals, I have also dabbled in the production side of things. At Yale, I led a 30-person team, managed a budget of $225k and all logistical aspects related to hosting a concert for 10,000 students. Artists included [Jessie J](https://en.wikipedia.org/wiki/Jessie_J). Release video for the concert can be found [here](https://www.youtube.com/watch?v=17iBpTIbjF8).
 
-  #### + Counselling and Mentoring
+  #### + Foreign Affairs and International Politics
 
-  My itch to solve problems extends throughout my personal life. When those around me tell me about personal problems, much like with programming, I do my best to isolate the problem, reframe it, and then determine incremental steps to find a solution. Whether the counterpart is a friend, a colleague, or a youth inmate in prison, I don't feel satisfied until I have positively contributed in some way.
+  In recent times, the dramatic political upheaval across the world has sent me searching for answers. Whether I'm reading about Xi Jinping's consolidation of power in China or the age-old Sunni-Shia power struggle in the Middle East, I draw parallels from history and across borders to make better sense of the world around me today. 
 
   [Back to top](#user-content-top)
