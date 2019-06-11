@@ -77,10 +77,10 @@
 
   ## Interests
 
-  - Music and Concerts
-  - Foreign Affairs and International Politics
-  - Counselling and Mentoring
-  - Travelling
+  
+  - Foreign Affairs/International Politics
+  - Music/Concerts
+  - Counselling/Mentoring
   - Football (fan & player)
 
   [Back to top](#user-content-top)
