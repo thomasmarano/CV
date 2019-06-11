@@ -15,11 +15,9 @@
 
   ## Background
 
-  I am an enthusiastic and ambitious Full Stack Junior Developer, looking for a London-based role where I can further my programming skills, while also gaining exposure to product management and business strategy.
+  Since graduating from Yale University, I have worked in various business capacities at Citigroup and Intercom. I have now turned all my energy to the wonderful world of coding and building things.
 
-  Since graduating from Yale University, I have worked in various business capacities at Citigroup and Intercom, and have now turned all my energy to the wonderful world of coding.
-
-  I recently completed a 16-week software development bootcamp at [Makers Academy](https://makers.tech/), and am looking for a company whose culture prizes learning and mentorship, so I can continue to grow as a developer.
+  I am an enthusiastic and ambitious **Full Stack Junior Developer**, looking for a London-based role where I can further my programming skills, while also gaining exposure to product management and business strategy. I recently completed a 16-week software development bootcamp at [Makers Academy](https://makers.tech/), and am looking for a company that prizes learning and mentorship to build on what I've learned up til now.
 
   ## Projects
 
@@ -39,7 +37,7 @@
 
   #### + Analytical Thinker
 
-  While at Citigroup, I analysed market and convertible bond data to pitch trade ideas to clients on a weekly basis, after careful risk analysis. Additionally, at Yale, I was solely responsible for analysing and allocating a $225k budget for production and musical artists to host a concert for 10,000 students with artists like Jessie J (release video for concert [here](https://www.youtube.com/watch?v=17iBpTIbjF8)). 
+  While at Citigroup, I analysed market and convertible bond data to pitch trade ideas to clients on a weekly basis, after careful risk analysis. Additionally, at Yale, I was solely responsible for analysing and allocating a $225k budget for production and musical artists to host a concert for 10,000 students with artists like Jessie J (release video for concert [here](https://www.youtube.com/watch?v=17iBpTIbjF8)).
 
   #### + Strong Interpersonal Skills
 
