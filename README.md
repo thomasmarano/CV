@@ -79,9 +79,9 @@
 
   ## Interests
 
-  - Music and Concerts
-  - Foreign Affairs and International Politics
-  - Counselling and Mentoring
+  - Foreign Affairs/International Politics
+  - Music/Concerts
+  - Counselling/Mentoring
   - Travelling
   - Football (fan & player)
 
