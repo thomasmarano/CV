@@ -29,21 +29,17 @@
 
   ## Skills
 
-  #### + Analytical Thinker
-
-  At Yale, I was solely responsible for managing a $225k budget for production and musical artists to host a concert for 10,000 students (release video for concert [here](https://www.youtube.com/watch?v=17iBpTIbjF8)). While at Citigroup, I analysed market and convertible bond data to pitch trade ideas to high-value clients on a weekly basis, after careful risk analysis.
-
   #### + Fast Learner
 
-  Even though I lacked a background or prior knowledge in Finance, Citigroup offered me a full-time job after I demonstrated I could pick-up technical financial concepts in a short amount of time. During my time at Intercom, I researched and built out processes for an Outbound Sales Motion from scratch which I had previous experience doing. Similarly, at Makers, I independently taught myself PyGame even though it wasn't in the syllabus, and built a functioning game of Pong within 2 days.
+  Even though I lacked a background or prior knowledge in Finance, Citigroup offered me a full-time job after I demonstrated I could pick-up technical financial concepts in a short amount of time. During my time at Intercom, I researched and built out processes for an *outbound sales motion* from scratch despite no previous experience. Similarly at Makers, I independently taught myself PyGame, absent from the syllabus, and built a functioning game of Pong within 2 days.
+
+  #### + Analytical Thinker
+
+  At Yale, I was solely responsible for managing a $225k budget for production and musical artists to host a concert for 10,000 students with artists like Jessie J (release video for concert [here](https://www.youtube.com/watch?v=17iBpTIbjF8)). While at Citigroup, I analysed market and convertible bond data to pitch trade ideas to clients on a weekly basis, after careful risk analysis.
 
   #### + Strong Interpersonal Skills and Team-Player
 
-  - Born in England but grew up in America -- learnt how to manage different types of people
-  - While at Citigroup, I spoke to clients in very stressful situations, and learnt how to take the right tone
-  - Mentored a prison inmate
-  - This helped me in pairing sessions at Makers, and will help me continue to be a good team-mate
-
+  I was born in England to American parents so quickly learned to find common ground with anyone. From speaking to frustrated clients at Citigroup to youth inmates in the US penitentiary system, I've cultivated a strong ability to build genuine, trusting relationships with people very different from me. This helped me greatly during pairing sessions at Makers and as a teammate in both my previous roles.
 
   ## Experience
 
