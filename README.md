@@ -78,11 +78,14 @@
 
   ## Interests
 
-  #### + Foreign Affairs and Politics
+  #### + Foreign Affairs and International Politics
 
-  In recent times, the dramatic political upheaval across the world has sent me searching for answers. Whether I'm reading about Xi Jinping's consolidation of power in China or the age-old Sunni-Shia power struggle in the Middle East, I draw parallels from history and across borders/political systems to make better sense of the world around me today.  
+  In recent times, the dramatic political upheaval across the world has sent me searching for answers. Whether I'm reading about Xi Jinping's consolidation of power in China or the age-old Sunni-Shia power struggle in the Middle East, I draw parallels from history and across borders & political systems to make better sense of the world around me today.  
     
-  #### + Music
+  #### + Music and Concerts
+
+  Aside from attending numerous concerts and music festivals, I have also dabbled in the production side of things. In university, I led a 30-person team, managed a budget of $225k and all logistical aspects related to hosting a concert for 10,000 students. Artists included [Jessie J](https://en.wikipedia.org/wiki/Jessie_J). Release video for the concert can be found [here](https://www.youtube.com/watch?v=17iBpTIbjF8).
+  
 
   Concerts & Spring Fling
 
