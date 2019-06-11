@@ -90,9 +90,9 @@
 
   My itch to solve problems extends throughout my personal life. When those around me tell me about personal problems, much like with programming, I do my best to isolate the problem, reframe it, and then determine incremental steps to find a solution. Whether the counterpart is a friend, a colleague, or a youth inmate in prison, I don't feel satisfied until I have positively contributed in some way.
 
-      Highlights include:
-        + Prison Mentoring in US Penitentiary System
-        + Teaching A-Level Math to children in under-served UK communities
+  Highlights include:
+      * Prison Mentoring in US Penitentiary System
+      * Teaching A-Level Math to children in under-served UK communities
 
   #### + Travelling
 
