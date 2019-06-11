@@ -15,9 +15,9 @@
 
   ## About Me
 
-  Since graduating from Yale University, I have worked in various business capacities at Citigroup and Intercom. I have now turned all my energy to the wonderful world of coding and building things.
+  Since graduating from Yale University, I have worked in two business roles at Citigroup and Intercom. I have now turned all my energy to the wonderful world of coding and building things.
 
-  I am an enthusiastic and ambitious **Full Stack Junior Developer**, looking for a London-based role where I can further my programming skills, while also gaining exposure to product management and business strategy. I recently completed a 16-week software development bootcamp at [Makers Academy](https://makers.tech/), and am looking for a company that prizes learning and mentorship to build on what I've learned up til now.
+  I am an enthusiastic and ambitious **Full Stack Junior Developer**, looking for a London-based role where I can further my programming skills, while also gaining exposure to product management and business strategy. I recently completed a 16-week software development bootcamp at [Makers Academy](https://makers.tech/), and am looking for a company that, above all, prizes learning and mentorship.
 
   ## Projects
 
