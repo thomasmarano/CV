@@ -37,7 +37,7 @@
 
   While at Citigroup, I analysed market and convertible bond data to pitch trade ideas to clients on a weekly basis, after careful risk analysis. Additionally, at Yale, I was solely responsible for analysing and allocating a $225k budget for production and musical artists to host a concert for 10,000 students with artists like Jessie J (release video for concert [here](https://www.youtube.com/watch?v=17iBpTIbjF8)). 
 
-  #### + Strong Interpersonal Skills and Team-Player
+  #### + Strong Interpersonal Skills
 
   I was born in England to American parents so quickly learned to find common ground with diverse people. Through speaking to frustrated clients at Citigroup or youth inmates in the US penitentiary system, I've nurtured this ability to build genuine, trusting relationships with people very different from me. This helped me greatly during our pairing sessions at Makers, not to mention, as a teammate in both my previous roles.
 
