@@ -81,19 +81,16 @@
   #### + Foreign Affairs and International Politics
 
   In recent times, the dramatic political upheaval across the world has sent me searching for answers. Whether I'm reading about Xi Jinping's consolidation of power in China or the age-old Sunni-Shia power struggle in the Middle East, I draw parallels from history and across borders & political systems to make better sense of the world around me today.  
-    
+
   #### + Music and Concerts
 
-  Aside from attending numerous concerts and music festivals, I have also dabbled in the production side of things. In university, I led a 30-person team, managed a budget of $225k and all logistical aspects related to hosting a concert for 10,000 students. Artists included [Jessie J](https://en.wikipedia.org/wiki/Jessie_J). Release video for the concert can be found [here](https://www.youtube.com/watch?v=17iBpTIbjF8).
-  
+  Aside from attending numerous concerts and music festivals, I have also dabbled in the production side of things. At Yale, I led a 30-person team, managed a budget of $225k and all logistical aspects related to hosting a concert for 10,000 students. Artists included [Jessie J](https://en.wikipedia.org/wiki/Jessie_J) and the release video for the concert can be found [here](https://www.youtube.com/watch?v=17iBpTIbjF8).
 
-  Concerts & Spring Fling
+  #### + Counselling and Mentoring
 
-  
-  #### + Mentoring/Counselling 
+  My itch to solve problems extends throughout my personal life and into the relationships around me. When others tell me about personal problems, much like with programming, I do my best to isolate the problem, reframe it, before then determining incremental steps to reach a resolution. Whether the counterpart is a friend, a colleague, or a youth inmate in prison, I follow a similar framework to address the unique circumstances.
 
-  
   #### + Travelling
-  
+
 
   [Back to top](#user-content-top)
