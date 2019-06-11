@@ -9,7 +9,7 @@
 
 <div align='center'>
 
-  [About Me](#About Me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
+  [About Me](#About-Me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 </div>
 
