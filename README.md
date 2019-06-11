@@ -17,9 +17,9 @@
 
   I am an enthusiastic and ambitious Full Stack Junior Developer, looking for a London-based role where I can further my programming skills, while also gaining exposure to product management and business strategy.
 
-  Since graduating from Yale University, I have worked in various business capacities at Citigroup and Intercom, but
+  Since graduating from Yale University, I have worked in various business capacities at Citigroup and Intercom, and have now turned all my energy to the wonderful world of coding.
 
-  I recently completed a 16-week intensive course at Makers Academy, and am looking for a company whose culture highly values learning and mentorship, so I can grow and become the best programmer I possibly can. 
+  I recently completed a 16-week software development bootcamp at [Makers Academy](https://makers.tech/), and am looking for a company whose culture prizes learning and mentorship, so I can continue to grow as a developer.
 
   ## Projects
 
@@ -79,9 +79,9 @@
 
   ## Interests
 
-  - Foreign Affairs/International Politics
-  - Music/Concerts
-  - Counselling/Mentoring
+  - Music and Concerts
+  - Foreign Affairs and International Politics
+  - Counselling and Mentoring
   - Travelling
   - Football (fan & player)
 
